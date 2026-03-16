@@ -29,6 +29,10 @@ function App() {
           consectetur
         </p>
       </div>
+
+      <div>
+        <p>hola</p>
+      </div>
     </>
   );
 }
