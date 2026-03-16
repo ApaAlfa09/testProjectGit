@@ -23,7 +23,11 @@ function App() {
       </div>
 
       <div>
-        <p>ola</p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum
+          vero, non aut necessitatibus maxime sunt! Nisi voluptatibus sunt
+          consectetur
+        </p>
       </div>
     </>
   );
